@@ -1,0 +1,14 @@
+
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Îüâ¿
+T
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(ûÍ™¿
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÃôÀ—8ÔÍì¡/
+:
+java:S1659	"Declare "j" on a separate line.(á”æåşÿÿÿÿ
+]	java:S125"<This block of commented-out lines of code should be removed.(‡Ş¢Ìùÿÿÿÿ8ÈÑ³Ö /
+]	java:S125"<This block of commented-out lines of code should be removed.(Ú«¾Ûúÿÿÿÿ8´õÖ /
+X	java:S125"<This block of commented-out lines of code should be removed.(Šêã²8Ä©³Ö /
+X	java:S125"<This block of commented-out lines of code should be removed.(Ğàñø8î’³Ö /
+X	java:S125/"<This block of commented-out lines of code should be removed.(ÄƒÅº8ÓÓ²Ö /
+X	java:S1252"<This block of commented-out lines of code should be removed.(£‚Úƒ8³ë²Ö /
+U	java:S106@"9Replace this use of System.out or System.err by a logger.(ºÔïÿ8£í¬Ö /

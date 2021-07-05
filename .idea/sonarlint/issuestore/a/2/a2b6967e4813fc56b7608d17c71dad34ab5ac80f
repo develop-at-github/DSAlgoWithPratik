@@ -1,0 +1,21 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(äŞ²Ô
+M	java:S106"9Replace this use of System.out or System.err by a logger.(¥ÖC
+Z	java:S106	"9Replace this use of System.out or System.err by a logger.(¼÷£íøÿÿÿÿ8°¿µ¤/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ô€´šıÿÿÿÿ8É‚µ¤/
+c
+java:S1126"AReplace this if-then-else statement by a single return statement.(¢Ùò¾ıÿÿÿÿ8ëİü´¤/
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áÙü¦
+P
+java:S1854"5Remove this useless assignment to local variable "n".(Ù€¤£ıÿÿÿÿ
+<
+java:S1659"!Declare "end" on a separate line.(Û‚ÌÎøÿÿÿÿ
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(üêêşşÿÿÿÿ8¯á‚µ¤/
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(™âŸİÿÿÿÿÿ8­˜–µ¤/
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(…ÎùØúÿÿÿÿ8¸–µ¤/
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(ÜñŸøÿÿÿÿ8‚Şªµ¤/
+S
+java:S11979"8Move the array designator from the variable to the type.(¯Š×Ÿüÿÿÿÿ
+Z	java:S106;"9Replace this use of System.out or System.err by a logger.(€µ”°øÿÿÿÿ8İ¨°µ¤/
+A
+java:S1481"&Remove this unused "n" local variable.(Ù€¤£ıÿÿÿÿ

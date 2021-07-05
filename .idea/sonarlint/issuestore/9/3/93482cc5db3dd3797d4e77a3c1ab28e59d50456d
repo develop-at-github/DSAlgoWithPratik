@@ -1,0 +1,13 @@
+
+E
+java:S1066"/Merge this if statement with the enclosing one.(Ž¾ÒÃ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(äÞ²Ô
+g
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Œ‹Ï<
+<
+java:S1659"!Declare "end" on a separate line.(èÀ­ñùÿÿÿÿ
+S
+java:S1197""8Move the array designator from the variable to the type.(µ…áÎùÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(ÖŒÏ÷ùÿÿÿÿ
+F
+java:S1481"0Remove this unused "peakElement" local variable.(†–ƒÜ
