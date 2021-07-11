@@ -16,6 +16,30 @@ public class KnapSack_1 {
         else
             return matrixArray[n][allowedWeight]=maxPrice(price,weight,allowedWeight,n-1);
     }
+
+
+    public static int maxPriceByTopDownApproach(int[]price, int[] weight,int allowedWeight ,int n){
+
+        int[][] t=new int[allowedWeight+1][n+1];
+
+        for(int i=0;i<allowedWeight+1;i++){
+            for(int j=0;j<n+1;j++){
+                if(i==0 || j==0)
+                    t[i][j]=0;
+            }
+        }
+
+        for (int i=1;i<allowedWeight+1;i++){
+            for (int j=1;j<n+1;j++){
+                if(weight[j-1]<=allowedWeight)
+                    t[i][j]=Math.max(price[j-1]+t[allowedWeight-weight[j-1]][j-1] ,t[i][j-1]);
+                else
+                    t[i][j]=t[i][j-1];
+            }
+        }
+
+        return t[allowedWeight][n];
+    }
     public static void main(String[] args) {
         int[] price={60,100,120};
         int[] weight={10,20,30};
@@ -27,5 +51,7 @@ public class KnapSack_1 {
             Arrays.fill(row,-1);
 
         System.out.println(maxPrice(price,weight,allowedWeight,n));
+        System.out.println("-------------------");
+        System.out.println(maxPriceByTopDownApproach(price,weight,allowedWeight,n));
     }
 }
