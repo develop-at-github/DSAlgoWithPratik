@@ -16,8 +16,8 @@ public class maximumTasks {
     public static int findTheMaxTask(int n,int t,int[][] arr){
         if(n==0 || t==0)
             return 0;
-        int timeForTask=arr[n-1][0]+arr[n-1][1];
-        if(arr[n-1][0]+arr[n-1][1] <= t)
+        int timeForTask=((arr[n-1][0]))+arr[n-1][1];
+        if(timeForTask <= t)
             return Math.max(1+findTheMaxTask(n-1,t-timeForTask,arr),findTheMaxTask(n-1,t,arr));
         else
             return findTheMaxTask(n-1,t,arr);

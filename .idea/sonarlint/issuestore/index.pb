@@ -41,3 +41,13 @@ r
 Bsrc/test/practice/example/SlidingWindow/SlidingWindow_fixed_1.java,0\e\0eb45c7de50ca6a326fb7bb6426b6cfe08b09c85
 €
 Psrc/test/practice/example/SlidingWindow/SlidingWindow_fixed_4_biggestNumber.java,3\1\31adec8a1be0d48235e1f2be1a6225319c263ae6
+_
+/src/test/practice/example/Line/parenthesis.java,d\3\d3a41d4437ae660e3a45e8c12e6e267ce875d7ad
+`
+0src/test/practice/example/Line/processTask2.java,5\4\5495bb615dd3c46c7a6058f96952909aa3838df2
+h
+8src/test/practice/example/Line/mostVisitedURL_Task3.java,8\9\89b85a690c9bf9289af68079ecf84a2fa415a366
+l
+<src/test/practice/example/DynamicProgramming/KnapSack_1.java,e\8\e8558824ae28f57e5e6d0aa22648214ecd822417
+h
+8src/test/practice/example/FindDuplicateAndRepeating.java,a\6\a6a7648c10d365e8e9eabbdd54915284a603d004
