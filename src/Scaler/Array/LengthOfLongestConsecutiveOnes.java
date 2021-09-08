@@ -8,9 +8,14 @@ public class LengthOfLongestConsecutiveOnes {
 
     public static int getCountOf1(String str){
         int count=0;
+        char[] arr=str.toCharArray();
+        for(int i=0;i<arr.length;i++)
+               count+= Integer.parseInt(String.valueOf(arr[i]));
 
-        for(int i=0;i<str.length();i++)
-               count+= Integer.parseInt(String.valueOf(str.charAt(i)));
+        int start=0,end=0;
+        while (start<arr.length){
+
+        }
 
         return count;
     }
