@@ -9,6 +9,7 @@ public class CommonElements {
 
         int[]a={2, 1, 4, 10 };
         int[]b={3, 6, 2, 10, 10 };
+
         System.out.println(Arrays.toString(solve(a,b)));
     }
     public static int[] solve(int[] a, int[] b) {
