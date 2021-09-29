@@ -26,6 +26,7 @@ public class XorQueries {
             int start=B[i][0]-1;
             int end=B[i][1]-1;
 
+
             int countOf_1=0;
             if (start!=0)
                 countOf_1=arr[end]-arr[start-1];
