@@ -109,3 +109,17 @@ R
 0src/Scaler/Array/RowWithMaximumNumberOfOnes.java,d\4\d4bc1bfb7b128f0fe13ff8d4204b7f8b3e67ae18
 Y
 )src/Scaler/Array/SpiralOrderMatrixII.java,5\6\567e7d60473b43146477400659a13d1467203485
+h
+8src/Scaler/ProblemSolving/EquilibriumIndexOfAnArray.java,c/d/cd1fab70d992a126cf822f793a8131cc2d6fe763
+g
+7src/Scaler/ProblemSolving/SubarrayWithLeastAverage.java,8/4/84d818da4767eb7897e1ad40e5ffb41211b1c4b4
+a
+1src/Scaler/BitManupulation/CountTotalSetBits.java,4/1/41c30932c7e59e9041e776f9432ade50ff9cf426
+V
+&src/Scaler/String/ChangeCharacter.java,6/6/66743611227311774d3a4f58b9e5eb00c126b3f5
+W
+'src/Scaler/String/CountOccurrences.java,0/a/0ae647e1dd05c0044e736a9b4e241d04b9a74f3a
+T
+$src/Scaler/ProblemSolving/Bulbs.java,d/f/df7a6fa94a24522401638d524e53ec0daeadb379
+Y
+)src/Scaler/ProblemSolving/XorQueries.java,2/e/2e453134834ecc3ce78fabad322787d97945668c
